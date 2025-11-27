@@ -16,3 +16,13 @@ int main(void)
 (b) What output does the program produce?
 
 ## Solutions
+
+(a) The directives would be ```#include<stdio.h>``` 
+The rest of the code would be statements from ```int main(void)``` till ```return 0``` statement 
+
+(b) the output is:
+```
+Parkinson's Law:
+ Work expands so as tofill the time
+ available for its completion.
+```
